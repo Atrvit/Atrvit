@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Vladimir
+
+
+![](https://komarev.com/ghpvc/?username=&color=grey&style=flat-square)
 
 <!--
 **Atrvit/Atrvit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
