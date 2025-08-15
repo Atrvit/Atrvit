@@ -1,7 +1,11 @@
 ## Hi there 👋 I'm Vladimir
 
+- 👨‍💻 I am a Platform / DevOps Engineer
+- 👥 Connect me in [LinkedIn](https://www.linkedin.com/in/vladimir-batov/)
 
-![](https://komarev.com/ghpvc/?username=&color=grey&style=flat-square)
+##
+
+![](https://komarev.com/ghpvc/?username=Atrvit&color=grey&style=flat-square)
 
 <!--
 **Atrvit/Atrvit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
